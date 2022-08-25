@@ -1,8 +1,8 @@
 ## Olá, eu sou Maurício Lazzari!
 <div align="center">
   <a href="https://github.com/codelazz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codelazz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelazz&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioLazzari&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioLazzari&layout=compact&langs_count=7&theme=react"/>
   
   <div> 
   <a href="https://instagram.com/mauriciolazz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
