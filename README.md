@@ -4,7 +4,7 @@
  
   ```python
   Mauricio Lazzari = {
-     country: 'Brazil',
+     country: 'Brasil',
      studying: 👨‍🎓 'Análise e Desenvolvimento de Sistemas na Feevale',
      stack: ['HTML', 'CSS', 'Java', 'PHP'],    
      hobbies: ['Jogos', 'Filmes', 'Séries', 'Músicas']
