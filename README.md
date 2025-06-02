@@ -6,7 +6,7 @@
   Mauricio Lazzari = {
      country: 'Brasil',
      studying: 👨‍🎓 'Análise e Desenvolvimento de Sistemas na Feevale',
-     stack: ['HTML', 'CSS', 'Java', 'PHP'],    
+     stack: ['HTML', 'CSS', 'React', 'TailWindCss', 'COBOL', 'JavaScript'],    
      hobbies: ['Jogos', 'Filmes', 'Séries', 'Músicas']
  };
  ```
